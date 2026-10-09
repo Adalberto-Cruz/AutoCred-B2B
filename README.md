@@ -37,7 +37,11 @@ Python, FastAPI, SQLAlchemy, Pydantic, Ollama (SLM local), Google Gemini (LLM), 
 - Demo: _(link)_
 - Vídeo: _(link)_
 
-Telas em `docs/prints/`.
+![Dashboard](docs/prints/dashboard.png)
+
+![Resultado de uma análise](docs/prints/analise.png)
+
+_Telas com empresas fictícias da demonstração._
 
 ## Autor
 
